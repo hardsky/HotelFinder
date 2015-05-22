@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoConverter", "GeoConverter\GeoConverter.csproj", "{A44A014F-5EEE-4CED-A706-03B97DCB8439}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoLib", "GeoLib\GeoLib.csproj", "{CD165570-28AD-45CA-A31B-67674262805A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CategoryConverter", "CategoryConverter\CategoryConverter.csproj", "{F2A92FA5-D33E-44CC-AD9B-AE445D3A8202}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelFinder", "HotelFinder\HotelFinder.csproj", "{7E635566-F2C6-470A-8BC9-F47A5B3A9269}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A44A014F-5EEE-4CED-A706-03B97DCB8439}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A44A014F-5EEE-4CED-A706-03B97DCB8439}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A44A014F-5EEE-4CED-A706-03B97DCB8439}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A44A014F-5EEE-4CED-A706-03B97DCB8439}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD165570-28AD-45CA-A31B-67674262805A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD165570-28AD-45CA-A31B-67674262805A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD165570-28AD-45CA-A31B-67674262805A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD165570-28AD-45CA-A31B-67674262805A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2A92FA5-D33E-44CC-AD9B-AE445D3A8202}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2A92FA5-D33E-44CC-AD9B-AE445D3A8202}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2A92FA5-D33E-44CC-AD9B-AE445D3A8202}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2A92FA5-D33E-44CC-AD9B-AE445D3A8202}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E635566-F2C6-470A-8BC9-F47A5B3A9269}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E635566-F2C6-470A-8BC9-F47A5B3A9269}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E635566-F2C6-470A-8BC9-F47A5B3A9269}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E635566-F2C6-470A-8BC9-F47A5B3A9269}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
